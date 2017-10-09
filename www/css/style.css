@@ -1,0 +1,149 @@
+* {
+   margin:0px;
+   padding:0px;
+   }
+body {
+   background: -webkit-linear-gradient(top, #35b9fd 0%,#6ae0f5 50%,#66bdf4 65%,#1997e6 100%);
+   font:14px trebuchet MS;
+}  
+.wrapper {
+    width:1000px;
+    
+    background:Honeydew;
+    margin:0 auto;
+}	
+
+.header {
+border-top: 4px solid #35b9fd;
+    width:1000px;
+	height:600px;
+	border-bottom: 2px solid #35b9fd;
+    background-image:url(D:\home\test1.ru\www\paris.jpeg);
+}
+
+.menu {
+width:100%;
+height:40px;
+    background: -moz-linear-gradient(top, #e2e2e2 0%, #dbdbdb 50%, #d1d1d1 51%, #fefefe 100%);
+    background: -webkit-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    background: -o-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    background: -ms-linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+    background: linear-gradient(top, #e2e2e2 0%,#dbdbdb 50%,#d1d1d1 51%,#fefefe 100%);
+border-bottom: 2px solid #35b9fd;
+}
+.user {
+    float: right;
+text-align:right;
+text-decoration: none;
+}
+.user p{
+display: block;
+}
+user p:hover{
+display: block;
+}
+.center_menu{
+    display:block;
+    list-style: none;
+    text-align: center;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-language-override: normal;
+    
+
+}
+.center_menu li{
+    float: left;
+    padding: 10px 15px;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+}
+.center_menu li a{
+    font
+    font: 14 px "century Gothic"; 
+    color:currentColor;
+    text-decoration: none;
+
+}
+.center_menu li a:hover{
+font: 14 px "century Gothic"; 
+    color:darkred;
+    text-decoration:underline;
+
+}
+.content {
+    width:100%;
+	
+}
+
+.left {
+width:750px;
+padding:10px;
+float:left;
+}
+.article {
+width:730px;
+padding:10px;
+margin-bottom:10px;
+}
+.article:hover{
+background:LightCyan;
+}
+.article img {
+float: left;
+margin-right:20px;
+}
+.article p {
+text-indent: 15px;
+margin-right:10px;
+margin-top:10px;
+}
+.navig{
+    
+    font: 20px "century Gothic";
+    float: left;
+    text-align: center;
+    
+}
+.title {
+text-decoration:none;
+text-align:center;
+
+}
+.right {
+width:210px;
+    height:
+padding:10px;
+float:right; 
+background:#d8ebd8;
+}
+
+.right_menu {
+display:block;
+    text-decoration: none;
+}
+.right_menu ul li{
+    text-decoration:none;
+}
+.ssilka {
+margin-top:20px;
+}
+.footer{
+    position:sticky;
+    width:100%;
+	padding:10px;
+	color:#aaaaaa;
+	text-align:center;
+	
+}
+.footer:hover{
+color:#333333;
+}
+
+.register{
+text-align: center;
+height: 500px;
+}
+
+
+
